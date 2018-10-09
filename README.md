@@ -1,5 +1,5 @@
 # Notepics
-**pictures of formal mathematics equations**
+**pictures of formal mathematical equations**
 
 Equations are full of our study life. Though the knowledge of a specific topic is easy to understand, remembering them for a long time seems to be a hard work.
 
